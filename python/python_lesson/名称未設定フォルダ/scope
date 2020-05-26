@@ -1,0 +1,9 @@
+a=1
+def func1():
+    print(a)
+func1()
+
+b=2
+def func2():
+    print(b)
+func2()

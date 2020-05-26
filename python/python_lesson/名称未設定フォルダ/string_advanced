@@ -1,0 +1,7 @@
+a="hello world"
+
+b=a.replace("hello","good moning")
+print(b)
+
+c=a[0:3]
+print(c)

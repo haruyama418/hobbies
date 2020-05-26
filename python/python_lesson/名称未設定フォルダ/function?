@@ -1,0 +1,8 @@
+def func1():
+    print("world")
+#func1()
+
+def func2():
+    print("hello")
+    func1()
+func2()

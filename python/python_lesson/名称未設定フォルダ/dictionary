@@ -1,0 +1,12 @@
+a={"haruki":2000,"hiroko":2964}
+print(a)
+
+b=a["haruki"]
+print(b)
+
+a["kouta"]=1994 #要素の追加
+
+print(a)
+a["hiroko"]=1999  #要素の変更
+print(a)
+

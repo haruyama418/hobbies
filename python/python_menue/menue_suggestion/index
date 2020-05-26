@@ -1,0 +1,6 @@
+
+input_member=input("今日ご飯を食べる人は？")
+
+
+if input_member== "春樹":
+     print ("")

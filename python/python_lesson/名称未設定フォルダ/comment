@@ -1,0 +1,6 @@
+#日本語対応のため
+# #coding: UTF-8
+
+# print("hello")
+#print("world")
+print("こんにちは")
